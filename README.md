@@ -6,9 +6,13 @@ Welcome to the most useless place on Github.
 
 Here you will find an extensive list of useless (and funny) websites. I knew about some of them, some of them were told to me by friends. I decided that I want more so I started googling random stuff, and that’s how I got the rest. But, believe me, the internet is full of way more useless stuff than this.
 
-**If you wish to add more to this list, please read the [contribution guidelines](CONTRIBUTING.md) or the [creating a list guide](CREATE-LIST.md).**
+## Table of Contents
 
-## Websites
+1. Useless Websites
+2. Contributing guidelines
+3. License
+
+## Useless Websites
 
 [Is it Christmas?](http://www.isitchristmas.com/) - Simple enough, this one tells you if it's Christmas or not using a giant "Yes" and "No".
 
@@ -83,3 +87,11 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 [Rock Paper Scissors](https://www.rock-paper-scissors-game.com/) - Wanna play?
 
 [The End of the Internet](http://www.hmpg.net/) - Congrats! You made it!
+
+## Contributing guidelines
+
+**If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
+
+## License
+
+**Licensed under the [Creative Commons CC0 License](https://github.com/scriptex/awesome-useless-websites/blob/master/LICENSE).**
