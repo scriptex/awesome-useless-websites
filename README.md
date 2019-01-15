@@ -8,9 +8,9 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 ## Table of Contents
 
-1. Useless Websites
-2. Contributing guidelines
-3. License
+1. [Useless Websites](https://github.com/scriptex/awesome-useless-websites#useless-websites)
+2. [Contributing guidelines](https://github.com/scriptex/awesome-useless-websites#contributing-guidelines)
+3. [License](https://github.com/scriptex/awesome-useless-websites#license)
 
 ## Useless Websites
 
