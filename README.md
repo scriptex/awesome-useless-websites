@@ -88,6 +88,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [The End of the Internet](http://www.hmpg.net/) - Congrats! You made it!
 
+[Fuck Yeah Button](https://fuckyeahbutton.org/) - Button for making "Fuck Yeah!" sounds and "Fuck Yeah!" animations!
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
