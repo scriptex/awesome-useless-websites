@@ -90,6 +90,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Fuck Yeah Button](https://fuckyeahbutton.org/) - Button for making "Fuck Yeah!" sounds and "Fuck Yeah!" animations!
 
+[Endless Horse](http://endless.horse/) - An astonishingly tall horse.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
