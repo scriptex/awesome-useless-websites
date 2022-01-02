@@ -1,8 +1,9 @@
-##########################################################
-####    WhiteSource Integration configuration file    ####
-##########################################################
-
-# Configuration #
-#---------------#
-ws.repo.scan=true
-vulnerable.check.run.conclusion.level=success
+ (8 sloc)  130 Bytes
+{
+	"generalSettings": {
+		"shouldScanRepo": true
+	},
+	"checkRunSettings": {
+		"vulnerableCheckRunConclusionLevel": "success"
+	}
+}
