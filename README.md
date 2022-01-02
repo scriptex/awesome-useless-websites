@@ -92,6 +92,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Endless Horse](http://endless.horse/) - An astonishingly tall horse.
 
+[leave page](https://leavepage.anaurelian.com/) - Just leave the page and see the reaction.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
