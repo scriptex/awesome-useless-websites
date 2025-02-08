@@ -92,7 +92,7 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Endless Horse](http://endless.horse/) - An astonishingly tall horse.
 
-[leave page](https://leavepage.anaurelian.com/) - Just leave the page and see the reaction.
+[leave page](https://leavepage.aurelitec.com/) - Just leave the page and see the reaction.
 
 ## Contributing guidelines
 
