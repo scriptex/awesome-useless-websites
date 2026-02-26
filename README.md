@@ -4,7 +4,7 @@
 
 Welcome to the most useless place on Github.
 
-Here you will find an extensive list of useless (and funny) websites. I knew about some of them, some of them were told to me by friends. I decided that I want more so I started googling random stuff, and that’s how I got the rest. But, believe me, the internet is full of way more useless stuff than this.
+Here you will find an extensive list of useless (and funny) websites. I knew about some of them, some of them were told to me by friends. I decided that I want more so I started googling random stuff, and that's how I got the rest. But, believe me, the internet is full of way more useless stuff than this.
 
 ## Table of Contents
 
@@ -95,6 +95,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 [Endless Horse](http://endless.horse/) - An astonishingly tall horse.
 
 [leave page](https://leavepage.aurelitec.com/) - Just leave the page and see the reaction.
+
+[Brain Rot Diagnostic Report](https://noahaust2.github.io/strategist-dashboard/tools/brain-rot/) - Get a clinical-grade diagnosis of how brain rotted you are, complete with a medical-style report you can download and share.
 
 ## Contributing guidelines
 
@@ -197,4 +199,3 @@ Support and sponsor my work:
 	<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/master/badges/shiba-inu.json" />
 </a>
 </div>
-
