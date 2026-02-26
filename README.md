@@ -40,6 +40,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Is my computer on?](http://www.ismycomputeron.com/) - If you're not sure.
 
+[iHug.You](https://ihug.you/) - Send digital hugs to your friends!
+
 [Heeeeeeeey](https://heeeeeeeey.com/) - Go to next.
 
 [Hooooooooo](https://Hooooooooo.com/) - Go to prev.
