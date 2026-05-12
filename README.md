@@ -96,6 +96,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [leave page](https://leavepage.aurelitec.com/) - Just leave the page and see the reaction.
 
+[Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
@@ -197,4 +199,3 @@ Support and sponsor my work:
 	<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/master/badges/shiba-inu.json" />
 </a>
 </div>
-
