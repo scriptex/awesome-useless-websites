@@ -96,6 +96,10 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [leave page](https://leavepage.aurelitec.com/) - Just leave the page and see the reaction.
 
+[I am Bored Site](http://iambored.site/) - Bored? Press the Enjoy button and get instantly transported to one of hundreds of handpicked, fascinating corners of the internet. Filter by category: games, art, music, science, and more.
+
+[Powerfull websiteas You Should Know](https://powerfulwebsites.online/) - Powerful websites you should know — a curated catalog of the most useful tools on the internet. Organized by category, filterable by tags, with a quiz to match you to the right site.
+
 [Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
 
 ## Contributing guidelines
