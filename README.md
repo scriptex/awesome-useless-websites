@@ -98,6 +98,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
 
+[iambored.site](https://iambored.site/) - An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
