@@ -102,6 +102,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
 
+[crzy.site](https://crzy.site/) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
