@@ -104,6 +104,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [crzy.site](https://crzy.site/) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 
+[Trynkit](https://pongvn.com/trynkit/) - A grab-bag of silly toys — meme makers, novelty love/zodiac "calculators" and quizzes to spam in the group chat.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
