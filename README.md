@@ -106,6 +106,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Trynkit](https://pongvn.com/trynkit/) - A grab-bag of silly toys — meme makers, novelty love/zodiac "calculators" and quizzes to spam in the group chat.
 
+[DVD Screensaver Maker](https://dvdscreensavermaker.com) - Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
