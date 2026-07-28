@@ -108,6 +108,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [DVD Screensaver Maker](https://dvdscreensavermaker.com) - Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop.
 
+[Boring Websites](https://boringwebsites.art/) - A webring of small, deliberately useless websites; press random and fall through them.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
