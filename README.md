@@ -110,6 +110,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Boring Websites](https://boringwebsites.art/) - A webring of small, deliberately useless websites; press random and fall through them.
 
+[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) - A gallery of DeepSeek whale-girl memes with funny quote captions. Waterfall browsing, tag filters, dark mode, and a share-card generator.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
