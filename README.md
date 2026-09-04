@@ -110,6 +110,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Boring Websites](https://boringwebsites.art/) - A webring of small, deliberately useless websites; press random and fall through them.
 
+[Wrongulator](https://wrongulator.com/) - A calculator that is always wrong on purpose, and explains its wrong answer with total confidence.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
