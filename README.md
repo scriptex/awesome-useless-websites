@@ -110,6 +110,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Boring Websites](https://boringwebsites.art/) - A webring of small, deliberately useless websites; press random and fall through them.
 
+[Wrongulator](https://wrongulator.com/) - A calculator that is always wrong on purpose, and explains its wrong answer with total confidence.
+
 [DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) - A gallery of DeepSeek whale-girl memes with funny quote captions. Waterfall browsing, tag filters, dark mode, and a share-card generator.
 
 ## Contributing guidelines
