@@ -114,6 +114,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) - A gallery of DeepSeek whale-girl memes with funny quote captions. Waterfall browsing, tag filters, dark mode, and a share-card generator.
 
+[braincell.lol](https://braincell.lol) - An AI with 1,000,000 braincells that only knows what strangers paid it to know. Pay 10 cents a character to write a permanent memory into its mind, then watch it react.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
