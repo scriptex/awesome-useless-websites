@@ -116,6 +116,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [braincell.lol](https://braincell.lol) - An AI with 1,000,000 braincells that only knows what strangers paid it to know. Pay 10 cents a character to write a permanent memory into its mind, then watch it react.
 
+[1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared canvas of a million cells where strangers paint emoji one stroke at a time and an AI called Jev paints back next to each stroke.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
