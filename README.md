@@ -118,6 +118,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared canvas of a million cells where strangers paint emoji one stroke at a time and an AI called Jev paints back next to each stroke.
 
+[MemeBako](https://www.memebako.com/) - A watermark-free meme archive for Gugugaga the penguin and Nailong the dragon — reaction memes, quote-captioned stickers, GIFs, wallpapers and printable coloring pages, with one-click copy and an online caption maker.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
