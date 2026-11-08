@@ -120,6 +120,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [2 Minute Drill Game](https://2minutedrillgame.app/) - Second-guess an NFL head coach by calling every play of a real last-minute drive, then find out how much win probability each call cost you.
 
+[My Nine Games](https://myninegames.com/) - Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
