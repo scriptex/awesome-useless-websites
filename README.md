@@ -118,6 +118,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared canvas of a million cells where strangers paint emoji one stroke at a time and an AI called Jev paints back next to each stroke.
 
+[MemeBako](https://www.memebako.com/) - A watermark-free meme archive for Gugugaga the penguin and Nailong the dragon — reaction memes, quote-captioned stickers, GIFs, wallpapers and printable coloring pages, with one-click copy and an online caption maker.
+
 [2 Minute Drill Game](https://2minutedrillgame.app/) - Second-guess an NFL head coach by calling every play of a real last-minute drive, then find out how much win probability each call cost you.
 
 [brAIAIn](https://www.braiain.com) - A parody AI lab whose model only knows sentences people paid $2.49 to teach it. Every purchase ships a new version with release notes, a paper and a 0.0% benchmark score.
