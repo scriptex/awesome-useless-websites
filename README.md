@@ -120,6 +120,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [2 Minute Drill Game](https://2minutedrillgame.app/) - Second-guess an NFL head coach by calling every play of a real last-minute drive, then find out how much win probability each call cost you.
 
+[brAIAIn](https://www.braiain.com) - A parody AI lab whose model only knows sentences people paid $2.49 to teach it. Every purchase ships a new version with release notes, a paper and a 0.0% benchmark score.
+
 [My Nine Games](https://myninegames.com/) - Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute.
 
 ## Contributing guidelines
