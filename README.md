@@ -96,9 +96,37 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [leave page](https://leavepage.aurelitec.com/) - Just leave the page and see the reaction.
 
+[I am Bored Site](http://iambored.site/) - Bored? Press the Enjoy button and get instantly transported to one of hundreds of handpicked, fascinating corners of the internet. Filter by category: games, art, music, science, and more.
+
+[Powerfull websiteas You Should Know](https://powerfulwebsites.online/) - Powerful websites you should know — a curated catalog of the most useful tools on the internet. Organized by category, filterable by tags, with a quiz to match you to the right site.
+
 [Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
 
 [iambored.site](https://iambored.site/) - An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+
+[crzy.site](https://crzy.site/) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+
+[Trynkit](https://pongvn.com/trynkit/) - A grab-bag of silly toys — meme makers, novelty love/zodiac "calculators" and quizzes to spam in the group chat.
+
+[DVD Screensaver Maker](https://dvdscreensavermaker.com) - Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop.
+
+[Boring Websites](https://boringwebsites.art/) - A webring of small, deliberately useless websites; press random and fall through them.
+
+[Wrongulator](https://wrongulator.com/) - A calculator that is always wrong on purpose, and explains its wrong answer with total confidence.
+
+[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) - A gallery of DeepSeek whale-girl memes with funny quote captions. Waterfall browsing, tag filters, dark mode, and a share-card generator.
+
+[braincell.lol](https://braincell.lol) - An AI with 1,000,000 braincells that only knows what strangers paid it to know. Pay 10 cents a character to write a permanent memory into its mind, then watch it react.
+
+[1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared canvas of a million cells where strangers paint emoji one stroke at a time and an AI called Jev paints back next to each stroke.
+
+[MemeBako](https://www.memebako.com/) - A watermark-free meme archive for Gugugaga the penguin and Nailong the dragon — reaction memes, quote-captioned stickers, GIFs, wallpapers and printable coloring pages, with one-click copy and an online caption maker.
+
+[2 Minute Drill Game](https://2minutedrillgame.app/) - Second-guess an NFL head coach by calling every play of a real last-minute drive, then find out how much win probability each call cost you.
+
+[brAIAIn](https://www.braiain.com) - A parody AI lab whose model only knows sentences people paid $2.49 to teach it. Every purchase ships a new version with release notes, a paper and a 0.0% benchmark score.
+
+[My Nine Games](https://myninegames.com/) - Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute.
 
 ## Contributing guidelines
 
