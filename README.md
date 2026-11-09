@@ -102,6 +102,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Prank My Face](https://prankmyface.lol/) - Create a fake AI face-twin finder link and prank a friend with the reveal.
 
+[iambored.site](https://iambored.site/) - An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+
 [crzy.site](https://crzy.site/) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 
 [Trynkit](https://pongvn.com/trynkit/) - A grab-bag of silly toys — meme makers, novelty love/zodiac "calculators" and quizzes to spam in the group chat.
