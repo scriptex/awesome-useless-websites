@@ -128,6 +128,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [My Nine Games](https://myninegames.com/) - Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute.
 
+[Seven Sins and Seven Virtues Quiz](https://fermatmind.com/en/tests/explore/seven-sins-virtues-test) - Answer 28 everyday prompts and compare your seven sin and seven virtue scores on one radar chart, free with no sign-up.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
