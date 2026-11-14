@@ -68,6 +68,9 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Staggering Beauty](http://www.staggeringbeauty.com/) - Make the worm dance with your mouse. (**Warning: Flashing images.**)
 
+[Don't Block Me Quiz](https://dontblockmequiz.net/) - A pointless little quiz that just asks if you want to be blocked. Spoiler: no.
+
+
 [Bees Bees Bees](http://beesbeesbees.com/) - This one reveals Oprah's secret plans.
 
 [Don't even reply](http://dontevenreply.com/) - Emails from an a\*\*hole
