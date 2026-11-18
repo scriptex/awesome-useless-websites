@@ -133,6 +133,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Seven Sins and Seven Virtues Quiz](https://fermatmind.com/en/tests/explore/seven-sins-virtues-test) - Answer 28 everyday prompts and compare your seven sin and seven virtue scores on one radar chart, free with no sign-up.
 
+[Daily visual guessing games](https://bestdaily.games/category/visual/) - Guess how big an object is, how many things poured out of a container, or which color a name describes.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
