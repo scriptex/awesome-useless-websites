@@ -138,6 +138,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [JigsawPop](https://jigsawpop.com) - Free in-browser jigsaw puzzles, no download or sign-up.
 
+[Puffer Party](https://pufferparty.org/) - Pass a pufferfish by naming something that fits the category in a light browser party game.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
