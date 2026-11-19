@@ -140,6 +140,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Puffer Party](https://pufferparty.org/) - Pass a pufferfish by naming something that fits the category in a light browser party game.
 
+[Cyber Money Printer](https://cybermoneyprinter.com/) - CyberMoneyPrinter is a gold virtual printer that keeps printing fake $100 bills. Nobody gets richer, but the printing sound and growing pile are oddly satisfying. Free to watch, no signup.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
