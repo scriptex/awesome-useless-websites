@@ -135,6 +135,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Daily visual guessing games](https://bestdaily.games/category/visual/) - Guess how big an object is, how many things poured out of a container, or which color a name describes.
 
+[Puffer Party](https://pufferparty.org/) - Pass a pufferfish by naming something that fits the category in a light browser party game.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
