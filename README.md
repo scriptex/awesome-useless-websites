@@ -70,7 +70,6 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Don't Block Me Quiz](https://dontblockmequiz.net/) - A pointless little quiz that just asks if you want to be blocked. Spoiler: no.
 
-
 [Bees Bees Bees](http://beesbeesbees.com/) - This one reveals Oprah's secret plans.
 
 [Don't even reply](http://dontevenreply.com/) - Emails from an a\*\*hole
@@ -136,6 +135,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 [Daily visual guessing games](https://bestdaily.games/category/visual/) - Guess how big an object is, how many things poured out of a container, or which color a name describes.
 
 [Random Web Game](https://randomwebgame.com/) - Pull a slot machine lever and it opens a random free browser game from over 1,300 indie games.
+
+[JigsawPop](https://jigsawpop.com) - Free in-browser jigsaw puzzles, no download or sign-up.
 
 ## Contributing guidelines
 
