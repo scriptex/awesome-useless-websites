@@ -142,6 +142,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Cyber Money Printer](https://cybermoneyprinter.com/) - CyberMoneyPrinter is a gold virtual printer that keeps printing fake $100 bills. Nobody gets richer, but the printing sound and growing pile are oddly satisfying. Free to watch, no signup.
 
+[Wonderhop play guide](https://dailygames.today/games/wonderhop/) - Guess the rarest, most common, earliest, or latest answer in a short daily trivia game.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
