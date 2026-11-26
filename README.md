@@ -144,6 +144,8 @@ Here you will find an extensive list of useless (and funny) websites. I knew abo
 
 [Wonderhop play guide](https://dailygames.today/games/wonderhop/) - Guess the rarest, most common, earliest, or latest answer in a short daily trivia game.
 
+[inspace Mountain Temple](https://opctoai.com/inspace/lives?tab=temple&lang=en) - A walkable Three.js courtyard with enterable halls, bells and lamps; exploring needs no account.
+
 ## Contributing guidelines
 
 **If you wish to add more to this list, please read the [contribution guidelines](https://github.com/scriptex/awesome-useless-websites/blob/master/CONTRIBUTING.md).**
